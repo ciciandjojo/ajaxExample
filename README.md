@@ -1,2 +1,3 @@
 # ajaxExample
-Django
+Django simple example
+using jQuery & JsonResponse
